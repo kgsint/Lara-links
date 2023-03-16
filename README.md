@@ -25,5 +25,13 @@ And create database manually and change your database name in `.env` file run:
 ```
 php artisan migrate
 ```
+To compile and build your frontend assets, run:
+```
+npm run dev
+```
+Start your development server
+```
+php artisan serve
+```
 
 [Learn more about Laravel](https://laravel.com)
