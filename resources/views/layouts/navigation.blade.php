@@ -6,7 +6,7 @@
                 <!-- Logo -->
                 <div class="shrink-0 flex items-center">
                     <a class="text-xl nav-logo">
-                        Laralink
+                        Laralinks
                     </a>
 
                 </div>
