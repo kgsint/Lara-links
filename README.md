@@ -25,7 +25,7 @@ And create database manually and change your database name in `.env` file run:
 ```
 php artisan migrate
 ```
-To compile and build your frontend assets, run:
+To compile and hot reload, run:
 ```
 npm run dev
 ```
