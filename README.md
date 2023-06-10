@@ -8,7 +8,7 @@ Customize with dashboard
 ![dashboard](/public/_demo/demo-2.png)
 
 
-## Installation and Set up
+## Installation and Setup
 clone this repo `https://github.com/Kaung-Sintc/Lara-links.git` or download zip file
 ##
 In your project directory, 
