@@ -17,11 +17,15 @@ install required dependencies
 composer install
 npm install
 ```
-copy `.env.example` file to `.env` or run:
+copy `.env.example` file to `.env`:
 ```
 cp .env.example .env
 ```
-And create database manually and change your database name in `.env` file run:
+generate `APP_KEY`:
+```
+php artisan key:generate
+```
+migrate:
 ```
 php artisan migrate
 ```
